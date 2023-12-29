@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: url(https://img.freepik.com/premium-photo/abstract-black-3d-background-with-cubic-art_1021632-406.jpg?size=338&ext=jpg&ga=GA1.1.1880011253.1699747200&semt=ais) ;
+  width: 210vh;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

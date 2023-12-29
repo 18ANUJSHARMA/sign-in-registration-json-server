@@ -1,0 +1,32 @@
+.card-header{
+    text-align: center;
+}
+.card{
+    height: 100%;
+    width: 100%;
+}
+.container{
+    height: 100%;
+    width: 100%;
+}
+
+.form-group input{
+    border: 2px solid black;
+}
+
+.form-group label{
+    font-weight: 500;
+    font-style: italic;
+}
+
+.btn{
+    gap: 5px;
+    margin: 3px;
+}
+.card-footer p{
+    color: grey;
+}
+.texter{
+    color: white;
+    text-align: center;
+}
